@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jaim3garcia
+- 👀 I’m interested in Tecnology in general.
+- 🌱 I’m currently learning Kubernetes.
+- 💞️ I’m looking to collaborate on Devops projects.
+- 📫 How to reach me jaimegarciaquezada@gmail.com
